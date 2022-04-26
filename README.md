@@ -6,7 +6,7 @@ So far it validates the names of the files, the allocation data, some of the inv
 
 I am struggling a lot with the StreamReader commands and reading multiple lines to work on validating and calculating the processors and tasks. I understand I am already close to the submission time but I have spent several days starting from scratch since I'd often break something too much to go back, on top of several thousands of words of other stuff for my miss managed unit.
 
-I haven't felt comfortable coming to Jason due to the class environment being very awkward which I understand is my fault as well.
+I haven't felt comfortable coming to Jason due to the class environment being very awkward which I understand is my fault as well. But I believe I've also had 2 pracs canceled due to public holidays so I haven't had a chance to come in and ask him for help in person
 
 I feel like I am making progress and today I've come up with some ideas to get over the multiple lines problems by using arrays or a list but I still dont seem to have got it down yet.
 
